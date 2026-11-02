@@ -1,16 +1,16 @@
-ANH NHU Y — PREMIUM HOMEPAGE UPDATE
+ANY FRUIT WEBSITE REDESIGN — GITHUB PAGES
 
-Contents: index.html plus 20 authentic photos supplied by the user.
+Included:
+- index.html: one-page bilingual website (Vietnamese / English)
+- style.css: responsive design for phone and desktop
+- script.js: mobile menu and language switch
+- assets/: supplied photo crops and logo image
 
-ANDROID / GITHUB PAGES:
-1. Download and extract this ZIP on your phone.
-2. Open https://github.com/vlam7346-ui/L
-3. In the repository root, choose ... > Upload file.
-4. Upload index.html AND all 20 JPG photos together. All files must be in the same root folder (do not put them in a subfolder).
-5. Commit changes to main.
-6. Wait for GitHub Pages to rebuild, then reload https://vlam7346-ui.github.io/L/
+IMPORTANT BEFORE PUBLISHING:
+1. Keep a backup of the current GitHub Pages site/repository before replacing anything.
+2. The images in this package are crops from the supplied contact sheet, not the original full-resolution files. Replace them with the original photos for best quality.
+3. Confirm the business address and contact information before public launch.
+4. YouTube background video is muted/autoplay/loop. Some browsers or mobile data settings may block autoplay; the page remains usable without it.
+5. This package has not been uploaded to GitHub or connected to anhnhuy.com. It is a ready-to-upload website package.
 
-IMPORTANT:
-- Do not upload only index.html; the photos must also be uploaded.
-- The contact email is still a placeholder YOUR-EMAIL@example.com. Replace it with the real business email before publishing. Add verified phone/address details when ready.
-- The page uses supplied real photos and does not assert unverified certifications, capacity figures or export claims.
+To publish on GitHub Pages, upload index.html, style.css, script.js and the assets folder to the repository's published root (or the /L path if that is the configured project path). Do not delete the existing version until the backup has been verified.
